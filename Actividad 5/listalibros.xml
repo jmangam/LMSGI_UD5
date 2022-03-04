@@ -1,0 +1,51 @@
+<?xml-stylesheet href="libreria.xsl" type="text/xsl"?>
+<libreria>
+    <libro>
+            <autor>Jeremias Rodriguex Valero</autor>
+            <titulo>Los gritos de Juan el mudo</titulo>
+            <editorial>La Grua</editorial>
+            <ISBN>168</ISBN>
+            <precio>6.99</precio>
+            <numpagina>233</numpagina>
+    </libro>
+    <libro>
+            <autor>Pedro Castro Martin</autor>
+            <titulo>La casa encantada</titulo>
+            <editorial>El Gato</editorial>
+            <ISBN>123</ISBN>
+            <precio>8.71</precio>
+            <numpagina>300</numpagina>
+    </libro>
+    <libro>
+            <autor>Manuel Vega Garcia</autor>
+            <titulo>La historia de Joshua</titulo>
+            <editorial>La casa verde</editorial>
+            <ISBN>195</ISBN>
+            <precio>9.80</precio>
+            <numpagina>350</numpagina>
+    </libro>
+    <libro>
+            <autor>Carlos Martinez Vega</autor>
+            <titulo>Los sueños de Manuel</titulo>
+            <editorial>La Grua</editorial>
+            <ISBN>168</ISBN>
+            <precio>6.99</precio>
+            <numpagina>233</numpagina>
+</libro>
+<libro>
+            <autor>Andres Martinez Valero</autor>
+            <titulo>El coche fantastico</titulo>
+            <editorial>El Gato</editorial>
+            <ISBN>123</ISBN>
+            <precio>8.71</precio>
+            <numpagina>300</numpagina>
+</libro>
+<libro>
+            <autor>Javier Macias Ruiz</autor>
+            <titulo>El campeon del pueblo</titulo>
+            <editorial>La casa verde</editorial>
+            <ISBN>195</ISBN>
+            <precio>9.80</precio>
+            <numpagina>350</numpagina>
+</libro>
+</libreria>
