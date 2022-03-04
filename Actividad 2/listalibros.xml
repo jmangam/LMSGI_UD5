@@ -1,7 +1,7 @@
 <?xml-stylesheet href="libreria.xsl" type="text/xsl"?>
 <libreria>
     <libro>
-            <autor>Jeremias Rodriguex Valero</autor>
+            <autor>Jeremias Rodriguez Valero</autor>
             <titulo>Los gritos de Juan el mudo</titulo>
             <editorial>La Grua</editorial>
             <ISBN>168</ISBN>

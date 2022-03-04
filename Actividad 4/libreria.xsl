@@ -7,14 +7,14 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <h1>Mi biblioteca personal de Javier Manzano</h1>
         <table>
         <tr bgcolor="#887788">
+            <th>ISBN</th>
             <th>título</th>
             <th>autor</th>
             <th>precio</th>
         </tr>
-        <!-- <xsl:for-each select="libreria/libro[autor!='Pedro Castro Martin']"> -->
-        <xsl:for-each select="libreria/libro[autor='Pedro Castro Martin']">
-        <xsl:sort select="precio" data-type="number"/>
+        <xsl:for-each select="libreria/libro">
         <tr>
+            <td><xsl:value-of select="ISBN"/></td>
             <td><xsl:value-of select="autor"/></td>
             <td><xsl:value-of select="titulo"/></td>
             <td><xsl:value-of select="precio"/></td>
