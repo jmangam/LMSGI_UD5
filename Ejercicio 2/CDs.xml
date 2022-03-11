@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cd_p4.xsl"?>
+<cdteca>
+    <cd>
+        <titulo>Indigo</titulo>
+        <artista>Chris Brown</artista>
+        <cancion tiempo="281">Indigo</cancion>
+        <cancion tiempo="233">Come together</cancion>
+        <cancion tiempo="230">Emerald / Burgundy</cancion>
+        <cancion tiempo="216">Back to Love</cancion>
+        <cancion tiempo="206">Temporary Lover</cancion>
+        <cancion tiempo="268">Red</cancion>
+        <cancion tiempo="254">No Guidance</cancion>
+        <cancion tiempo="164">Natural Disaster / Aura</cancion>
+        <cancion tiempo="247">Sorry Enough</cancion>
+        <cancion tiempo="191">Juice</cancion>
+        <sello>RCA Records</sello>
+        <anho>2019</anho>
+    </cd>
+    <cd>
+        <titulo>Overexposed</titulo>
+        <artista>Maroon 5</artista>
+        <cancion tiempo="162">One More Night</cancion>
+        <cancion tiempo="130">Daylight</cancion>
+        <cancion tiempo="201">Ladykiller</cancion>
+        <cancion tiempo="185">Payphone</cancion>
+        <cancion tiempo="185">Lucky Strike</cancion>
+        <sello>AM/Octone Records</sello>
+        <anho>2012</anho>
+    </cd>
+    <cd>
+        <titulo>Have a nice day</titulo>
+        <artista>Jon Bon Jovi</artista>
+        <cancion tiempo="216">Have A Nice Day</cancion>
+        <cancion tiempo="229">I Wanna Be Loved</cancion>
+        <cancion tiempo="227">Welcome To Wherever You Are</cancion>
+        <cancion tiempo="230">Who Says You Can't Go Home?</cancion>
+        <cancion tiempo="271">Last Man Standing</cancion>
+        <sello>Island Records</sello>
+        <anho>2005</anho>
+    </cd>
+    <cd>
+        <titulo>La Vida Es</titulo>
+        <artista>Nek</artista>
+        <cancion tiempo="213">Llegas Tu</cancion>
+        <cancion tiempo="246">Miami</cancion>
+        <cancion tiempo="209">La Vida Es</cancion>
+        <cancion tiempo="237">Nuestro Mejor Dia</cancion>
+        <cancion tiempo="210">Lleno De Energia</cancion>
+        <sello>Island Records</sello>
+        <anho>2000</anho>
+    </cd>
+    <cd>
+        <titulo>Can't get enough</titulo>
+        <artista>Barry White</artista>
+        <cancion tiempo="112">Mellow Mood (Pt. 1)</cancion>
+        <cancion tiempo="276">You're the First, the Last, My Everything</cancion>
+        <cancion tiempo="621">I Can't Believe You Love Me</cancion>
+        <cancion tiempo="274">Can't Get Enough of Your Love, Babe</cancion>
+        <cancion tiempo="234">Oh Love, Well We Finally Made It</cancion>
+        <sello>20th Century</sello>
+        <anho>1974</anho>
+    </cd>
+    <cd>
+        <titulo>Abbey Road</titulo>
+        <artista>The Beatles</artista>
+        <cancion tiempo="260">Come Together</cancion>
+        <cancion tiempo="183">Something</cancion>
+        <cancion tiempo="207">Maxwell's Silver Hammer</cancion>
+        <cancion tiempo="206">Oh! Darling</cancion>
+        <cancion tiempo="171">Octopus's Garden</cancion>
+        <sello>Apple Records</sello>
+        <anho>1969</anho>
+    </cd>
+    <cd>
+        <titulo>Thriller</titulo>
+        <artista>Michael Jackson</artista>
+        <cancion tiempo="362">Wanna Be Startin' Somethin'</cancion>
+        <cancion tiempo="260">Baby Be Mine</cancion>
+        <cancion tiempo="222">The Girl Is Mine</cancion>
+        <cancion tiempo="357">Thriller</cancion>
+        <cancion tiempo="259">Beat It</cancion>
+        <sello>Epic Records</sello>
+        <anho>1982</anho>
+    </cd>
+    <cd>
+        <titulo>Pies descalzos</titulo>
+        <artista>Shakira</artista>
+        <cancion tiempo="231">Estoy aqui</cancion>
+        <cancion tiempo="254">Antologia</cancion>
+        <cancion tiempo="244">Un poco de amor</cancion>
+        <cancion tiempo="252">Quiero</cancion>
+        <cancion tiempo="240">Te necesito</cancion>
+        <sello>Sony BMG</sello>
+        <anho>1995</anho>
+    </cd>
+</cdteca>
